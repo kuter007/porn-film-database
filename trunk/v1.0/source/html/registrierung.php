@@ -23,7 +23,7 @@ and open the template in the editor.
         $hausnummer = $_POST['hausnummer'];
         $plz = $_POST['plz'];
         $stadt = $_POST['stadt'];
-        $gdatum = $_POST['gatum'];
+        $gdatum = $_POST['gdatum'];
         $email = $_POST['email'];
         $senden = $_POST['senden'];
         //Db Select
