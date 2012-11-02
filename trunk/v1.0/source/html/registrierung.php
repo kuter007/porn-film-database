@@ -40,9 +40,9 @@
                     <a class="brand" href="#">Sensual Movie Doc</a>
                     <div class="nav-collapse collapse">
                         <ul class="nav">
-                            <li class="active"><a href="#">Home</a></li>
-                            <li><a href="#about">Filmlist</a></li>
-                            <li><a href="#contact">Go Pro</a></li>
+                            <li><a href="#home">Home</a></li>
+                            <li><a href="#list">Filmlist</a></li>
+                            <li class="active"><a href="#">Go Pro</a></li>
                             <li><a href="#login">Log-In</a></li>
                         </ul>
                     </div><!--/.nav-collapse -->
